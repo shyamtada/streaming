@@ -14,7 +14,7 @@ function App() {
           left: "50%",
           transform: "translate(-50%, -50%)",
         }}
-        url="https://ac8adf168f69.us-west-2.playback.live-video.net/api/video/v1/us-west-2.473199066310.channel.H4sy5NggSpIp.m3u8"
+        url="https://f466cb2b5e57.us-east-1.playback.live-video.net/api/video/v1/us-east-1.078835946993.channel.YtqZUVkQ9Wz5.m3u8"
         playing={true}
         controls={true}
       />
